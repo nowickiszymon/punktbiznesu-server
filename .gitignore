@@ -1,0 +1,8 @@
+# Django #
+*.log
+*.pot
+*.pyc
+server/__pycache__
+server/db.sqlite3
+server/media
+server/api/migrations/
